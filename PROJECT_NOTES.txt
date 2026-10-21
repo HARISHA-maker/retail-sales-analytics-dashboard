@@ -1,0 +1,18 @@
+PROJECT NOTES
+Revenue = units sold × unit price.
+Cost = units sold × unit cost.
+Profit = revenue − cost.
+Profit margin = profit / revenue × 100.
+
+Dashboard features: filters, KPI cards, monthly trend, category revenue, regional profit, product summary, CSV export.
+
+The included dataset is synthetic. Do not claim real business impact.
+Run:
+python -m pip install -r requirements.txt
+streamlit run app.py
+
+Interview topics:
+- Pandas is used to load, filter, group, and aggregate tabular data.
+- KPIs summarize key measures.
+- Filters allow comparisons across categories, regions, and dates.
+- Future work: public dataset, SQL integration, validation, tests, deployment.

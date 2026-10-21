@@ -1,0 +1,41 @@
+date,region,category,product,units_sold,unit_price_inr,unit_cost_inr,revenue_inr,cost_inr,profit_inr
+2026-01-03,North,Electronics,Wireless Mouse,25,599,350,14975,8750,6225
+2026-01-05,South,Home,Storage Box,18,299,160,5382,2880,2502
+2026-01-08,West,Clothing,Cotton T-Shirt,32,499,260,15968,8320,7648
+2026-01-11,East,Electronics,USB-C Hub,12,1299,780,15588,9360,6228
+2026-01-15,South,Home,Desk Lamp,14,899,520,12586,7280,5306
+2026-01-19,North,Clothing,Hoodie,10,1199,680,11990,6800,5190
+2026-01-22,West,Electronics,Keyboard,16,999,610,15984,9760,6224
+2026-01-26,East,Home,Water Bottle,40,249,110,9960,4400,5560
+2026-02-02,South,Electronics,Wireless Mouse,28,599,350,16772,9800,6972
+2026-02-06,North,Home,Desk Lamp,17,899,520,15283,8840,6443
+2026-02-09,East,Clothing,Cotton T-Shirt,35,499,260,17465,9100,8365
+2026-02-12,West,Electronics,USB-C Hub,15,1299,780,19485,11700,7785
+2026-02-16,North,Home,Storage Box,24,299,160,7176,3840,3336
+2026-02-19,South,Clothing,Hoodie,13,1199,680,15587,8840,6747
+2026-02-23,East,Electronics,Keyboard,18,999,610,17982,10980,7002
+2026-02-27,West,Home,Water Bottle,38,249,110,9462,4180,5282
+2026-03-03,East,Electronics,Wireless Mouse,31,599,350,18569,10850,7719
+2026-03-07,West,Home,Desk Lamp,16,899,520,14384,8320,6064
+2026-03-10,North,Clothing,Cotton T-Shirt,41,499,260,20459,10660,9799
+2026-03-13,South,Electronics,USB-C Hub,19,1299,780,24681,14820,9861
+2026-03-17,West,Home,Storage Box,27,299,160,8073,4320,3753
+2026-03-21,East,Clothing,Hoodie,15,1199,680,17985,10200,7785
+2026-03-24,South,Electronics,Keyboard,20,999,610,19980,12200,7780
+2026-03-28,North,Home,Water Bottle,45,249,110,11205,4950,6255
+2026-04-02,North,Electronics,Wireless Mouse,34,599,350,20366,11900,8466
+2026-04-06,East,Home,Desk Lamp,19,899,520,17081,9880,7201
+2026-04-09,South,Clothing,Cotton T-Shirt,39,499,260,19461,10140,9321
+2026-04-12,West,Electronics,USB-C Hub,22,1299,780,28578,17160,11418
+2026-04-16,East,Home,Storage Box,29,299,160,8671,4640,4031
+2026-04-19,North,Clothing,Hoodie,17,1199,680,20383,11560,8823
+2026-04-23,South,Electronics,Keyboard,23,999,610,22977,14030,8947
+2026-04-27,West,Home,Water Bottle,48,249,110,11952,5280,6672
+2026-05-03,South,Electronics,Wireless Mouse,37,599,350,22163,12950,9213
+2026-05-07,North,Home,Desk Lamp,21,899,520,18879,10920,7959
+2026-05-10,West,Clothing,Cotton T-Shirt,44,499,260,21956,11440,10516
+2026-05-13,East,Electronics,USB-C Hub,24,1299,780,31176,18720,12456
+2026-05-17,South,Home,Storage Box,31,299,160,9269,4960,4309
+2026-05-20,West,Clothing,Hoodie,19,1199,680,22781,12920,9861
+2026-05-24,North,Electronics,Keyboard,25,999,610,24975,15250,9725
+2026-05-28,East,Home,Water Bottle,51,249,110,12699,5610,7089
