@@ -2,7 +2,7 @@
 
 A beginner portfolio project using Python, Pandas, Matplotlib, and Streamlit.
 
-**Dataset disclosure:** `retail_sales.csv` contains synthetic sample data created for learning. Do not describe it as real company data.
+**Dataset disclosure:** `retail_sales.csv` contains synthetic sample data created for learning. 
 
 ## Features
 - Revenue, profit, units sold, and profit margin KPIs
